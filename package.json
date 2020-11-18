@@ -1,0 +1,20 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "path.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "path": "nodemon path.js",
+    "os": "nodemon os.js",
+    "fs": "nodemon fs.js",
+    "http": "nodemon http.js",
+    "rest": "nodemon rest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "description": ""
+}
